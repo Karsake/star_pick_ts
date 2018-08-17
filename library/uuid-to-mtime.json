@@ -27,22 +27,22 @@
   "0857d5e1-e5b1-48e2-80d6-5059f694276a": {
     "asset": 1534502701000,
     "meta": 1526930962000,
-    "relativePath": "audio"
+    "relativePath": "audios"
   },
   "dc194f1a-c8a5-46ca-aaf9-f03b70974af5": {
     "asset": 1526930962000,
     "meta": 1534503004000,
-    "relativePath": "audio/jump.mp3"
+    "relativePath": "audios/jump.mp3"
   },
   "977cfe9b-21c7-498e-b060-541800511a8b": {
     "asset": 1526930962000,
     "meta": 1534503004000,
-    "relativePath": "font/mikado_outline_shadow.fnt"
+    "relativePath": "fonts/mikado_outline_shadow.fnt"
   },
   "55d110b9-bab6-4d9d-9416-03e46904fa35": {
     "asset": 1526930962000,
     "meta": 1534503004000,
-    "relativePath": "audio/score.mp3"
+    "relativePath": "audios/score.mp3"
   },
   "d6ff10bc-4d58-4d63-8af4-19151a90da2c": {
     "asset": 1534502701000,
@@ -62,7 +62,7 @@
   "f3779477-7dbf-4751-902f-985973720152": {
     "asset": 1526930962000,
     "meta": 1534503004000,
-    "relativePath": "font/mikado_outline_shadow.png"
+    "relativePath": "fonts/mikado_outline_shadow.png"
   },
   "c6b5fd13-6a7f-4187-8716-1189e5d13c27": {
     "asset": 1526930962000,
@@ -80,9 +80,9 @@
     "relativePath": "textures/star.png"
   },
   "b906bf36-ce2a-490e-8315-fef4bd05f482": {
-    "asset": 1534503038000,
+    "asset": 1534503400000,
     "meta": 1534503038000,
-    "relativePath": "font"
+    "relativePath": "fonts"
   },
   "e851e89b-faa2-4484-bea6-5c01dd9f06e2": {
     "asset": 1533696081000,
@@ -305,13 +305,18 @@
     "relativePath": "prefab/webview.prefab"
   },
   "6c7afdf8-dc29-447e-9936-441413b2d8cd": {
-    "asset": 1534503064000,
+    "asset": 1534503089000,
     "meta": 1534503064000,
-    "relativePath": "scene"
+    "relativePath": "scenes"
   },
   "3455468b-3f52-4c88-b44a-b155f0bd2185": {
-    "asset": 1534503087000,
-    "meta": 1534503089000,
-    "relativePath": "scene/game.fire"
+    "asset": 1534504108000,
+    "meta": 1534504108000,
+    "relativePath": "scenes/game.fire"
+  },
+  "7e3a703e-5d35-472d-971a-f004168038f1": {
+    "asset": 1534503392000,
+    "meta": 1534503392000,
+    "relativePath": "scripts"
   }
 }
