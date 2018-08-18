@@ -310,13 +310,18 @@
     "relativePath": "scenes"
   },
   "3455468b-3f52-4c88-b44a-b155f0bd2185": {
-    "asset": 1534504108000,
-    "meta": 1534504108000,
+    "asset": 1534510164000,
+    "meta": 1534510164000,
     "relativePath": "scenes/game.fire"
   },
   "7e3a703e-5d35-472d-971a-f004168038f1": {
     "asset": 1534503392000,
     "meta": 1534503392000,
     "relativePath": "scripts"
+  },
+  "1b6111b9-edb2-4695-bc7c-d53bf42dce49": {
+    "asset": 1534559713000,
+    "meta": 1534559759000,
+    "relativePath": "scripts/game.ts"
   }
 }

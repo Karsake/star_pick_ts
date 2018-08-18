@@ -1,55 +1,156 @@
-2018-08-17T10:50:00.619Z - normal: Load ~/.CocosCreator/settings.json
-2018-08-17T10:50:00.624Z - normal: checking language setting...
-2018-08-17T10:50:00.624Z - normal: Language: en
-2018-08-17T10:50:01.235Z - success: protocol editor-framework registered
-2018-08-17T10:50:01.235Z - success: protocol app registered
-2018-08-17T10:50:01.236Z - success: protocol theme registered
-2018-08-17T10:50:01.236Z - success: protocol packages registered
-2018-08-17T10:50:01.236Z - success: protocol unpack registerred
-2018-08-17T10:50:01.236Z - success: protocol disable-commonjs registerred
-2018-08-17T10:50:01.410Z - normal: connected!
-2018-08-17T10:50:01.413Z - normal: Check project /Users/Macbook/Documents/GitHub/star_pick_ts
-2018-08-17T10:50:01.415Z - normal: Initializing project /Users/Macbook/Documents/GitHub/star_pick_ts
-2018-08-17T10:50:01.420Z - normal: Initializing Cocos2d
-2018-08-17T10:50:02.152Z - normal: Initializing Asset Database
-2018-08-17T10:50:02.202Z - success: protocol uuid registerred
-2018-08-17T10:50:02.202Z - success: protocol db registerred
-2018-08-17T10:50:02.203Z - success: protocol thumbnail registerred
-2018-08-17T10:50:02.203Z - normal: Loading editor/builtin packages
-2018-08-17T10:50:02.381Z - success: assets loaded
-2018-08-17T10:50:02.387Z - success: builder loaded
-2018-08-17T10:50:02.390Z - success: cocos-analytics loaded
-2018-08-17T10:50:02.395Z - success: console loaded
-2018-08-17T10:50:02.432Z - success: fb-instant-games loaded
-2018-08-17T10:50:02.438Z - success: hierarchy loaded
-2018-08-17T10:50:02.442Z - success: inspector loaded
-2018-08-17T10:50:02.444Z - success: keystore loaded
-2018-08-17T10:50:02.449Z - success: node-library loaded
-2018-08-17T10:50:02.451Z - success: package-asset loaded
-2018-08-17T10:50:02.452Z - success: preferences loaded
-2018-08-17T10:50:02.456Z - success: project-exporter loaded
-2018-08-17T10:50:02.475Z - success: project-importer loaded
-2018-08-17T10:50:02.480Z - success: project-settings loaded
-2018-08-17T10:50:02.487Z - success: ui-kit loaded
-2018-08-17T10:50:02.492Z - success: scene loaded
-2018-08-17T10:50:02.493Z - success: sprite-editor loaded
-2018-08-17T10:50:02.498Z - success: store loaded
-2018-08-17T10:50:02.504Z - success: timeline loaded
-2018-08-17T10:50:02.504Z - normal: Loading builtin packages
-2018-08-17T10:50:02.512Z - success: asset-db-debugger loaded
-2018-08-17T10:50:02.513Z - success: color-picker loaded
-2018-08-17T10:50:02.515Z - success: jsb-adapter loaded
-2018-08-17T10:50:02.522Z - success: package-manager loaded
-2018-08-17T10:50:02.523Z - success: qqplay-adapter loaded
-2018-08-17T10:50:02.533Z - success: sdkbox loaded
-2018-08-17T10:50:02.543Z - success: tester loaded
-2018-08-17T10:50:02.553Z - success: ui-grid loaded
-2018-08-17T10:50:02.559Z - success: ui-kit-preview-extra loaded
-2018-08-17T10:50:02.564Z - success: ui-kit-preview loaded
-2018-08-17T10:50:02.570Z - success: ui-tree loaded
-2018-08-17T10:50:02.572Z - success: weapp-adapter loaded
-2018-08-17T10:50:03.715Z - normal: Loading packages
-2018-08-17T10:50:03.722Z - normal: Watching packages
-2018-08-17T10:50:03.813Z - normal: Run Application
-2018-08-17T10:50:04.650Z - success: preview server running at http://localhost:7457
-2018-08-17T11:08:33.570Z - info: shutdown preview server
+2018-08-17T12:44:47.380Z - normal: Load ~/.CocosCreator/settings.json
+2018-08-17T12:44:47.385Z - normal: checking language setting...
+2018-08-17T12:44:47.385Z - normal: Language: en
+2018-08-17T12:44:48.303Z - success: protocol editor-framework registered
+2018-08-17T12:44:48.303Z - success: protocol app registered
+2018-08-17T12:44:48.303Z - success: protocol theme registered
+2018-08-17T12:44:48.304Z - success: protocol packages registered
+2018-08-17T12:44:48.304Z - success: protocol unpack registerred
+2018-08-17T12:44:48.304Z - success: protocol disable-commonjs registerred
+2018-08-17T12:44:48.469Z - normal: connected!
+2018-08-17T12:44:48.472Z - normal: Check project /Users/Macbook/Documents/GitHub/star_pick_ts
+2018-08-17T12:44:48.474Z - normal: Initializing project /Users/Macbook/Documents/GitHub/star_pick_ts
+2018-08-17T12:44:48.480Z - normal: Initializing Cocos2d
+2018-08-17T12:44:49.359Z - normal: Initializing Asset Database
+2018-08-17T12:44:49.420Z - success: protocol uuid registerred
+2018-08-17T12:44:49.420Z - success: protocol db registerred
+2018-08-17T12:44:49.421Z - success: protocol thumbnail registerred
+2018-08-17T12:44:49.421Z - normal: Loading editor/builtin packages
+2018-08-17T12:44:49.664Z - success: assets loaded
+2018-08-17T12:44:49.670Z - success: builder loaded
+2018-08-17T12:44:49.673Z - success: cocos-analytics loaded
+2018-08-17T12:44:49.679Z - success: console loaded
+2018-08-17T12:44:49.719Z - success: fb-instant-games loaded
+2018-08-17T12:44:49.728Z - success: hierarchy loaded
+2018-08-17T12:44:49.735Z - success: inspector loaded
+2018-08-17T12:44:49.738Z - success: keystore loaded
+2018-08-17T12:44:49.748Z - success: node-library loaded
+2018-08-17T12:44:49.750Z - success: package-asset loaded
+2018-08-17T12:44:49.753Z - success: preferences loaded
+2018-08-17T12:44:49.757Z - success: project-exporter loaded
+2018-08-17T12:44:49.781Z - success: project-importer loaded
+2018-08-17T12:44:49.785Z - success: project-settings loaded
+2018-08-17T12:44:49.791Z - success: ui-kit loaded
+2018-08-17T12:44:49.797Z - success: scene loaded
+2018-08-17T12:44:49.799Z - success: sprite-editor loaded
+2018-08-17T12:44:49.805Z - success: store loaded
+2018-08-17T12:44:49.814Z - success: timeline loaded
+2018-08-17T12:44:49.815Z - normal: Loading builtin packages
+2018-08-17T12:44:49.822Z - success: asset-db-debugger loaded
+2018-08-17T12:44:49.824Z - success: color-picker loaded
+2018-08-17T12:44:49.826Z - success: jsb-adapter loaded
+2018-08-17T12:44:49.832Z - success: package-manager loaded
+2018-08-17T12:44:49.834Z - success: qqplay-adapter loaded
+2018-08-17T12:44:49.844Z - success: sdkbox loaded
+2018-08-17T12:44:49.852Z - success: tester loaded
+2018-08-17T12:44:49.860Z - success: ui-grid loaded
+2018-08-17T12:44:49.866Z - success: ui-kit-preview-extra loaded
+2018-08-17T12:44:49.870Z - success: ui-kit-preview loaded
+2018-08-17T12:44:49.876Z - success: ui-tree loaded
+2018-08-17T12:44:49.878Z - success: weapp-adapter loaded
+2018-08-17T12:44:51.410Z - normal: Loading packages
+2018-08-17T12:44:51.415Z - normal: Watching packages
+2018-08-17T12:44:51.509Z - normal: Run Application
+2018-08-17T12:44:52.218Z - success: preview server running at http://localhost:7456
+2018-08-17T12:48:18.343Z - warn: Please specifiy a default value for "NewClass" property at its declaration: 😰
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 player
+2018-08-17T12:48:18.346Z - warn: Please specifiy a default value for "NewClass" property at its declaration: 😰
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 starPrefab
+2018-08-17T12:48:32.592Z - warn: Please specifiy a default value for "NewClass" property at its declaration: 😰
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 player
+2018-08-17T12:48:32.593Z - warn: Please specifiy a default value for "NewClass" property at its declaration: 😰
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 starPrefab
+2018-08-17T12:49:19.186Z - warn: Please specifiy a default value for "game" property at its declaration: 😰
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 player
+2018-08-17T12:49:19.188Z - warn: Please specifiy a default value for "game" property at its declaration: 😰
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 starPrefab
+2018-08-17T12:49:29.692Z - warn: Please specifiy a default value for "game" property at its declaration: 😰
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 player
+2018-08-17T12:49:29.693Z - warn: Please specifiy a default value for "game" property at its declaration: 😰
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 starPrefab
+2018-08-17T12:50:07.277Z - warn: Please specifiy a default value for "game" property at its declaration: 😰
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 player
+2018-08-17T12:50:07.277Z - warn: Please specifiy a default value for "game" property at its declaration: 😰
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 starPrefab
+2018-08-17T12:50:15.999Z - warn: Please specifiy a default value for "game" property at its declaration: 😰
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 player
+2018-08-17T12:50:16.000Z - warn: Please specifiy a default value for "game" property at its declaration: 😰
+ 
+// Before:
+@property(...)
+value; 
+// After:
+@property(...)
+value = 0 starPrefab
+2018-08-17T12:50:59.201Z - success: TypeScript Configuration file has been copied to /Users/Macbook/Documents/GitHub/star_pick_ts/tsconfig.json
+2018-08-17T12:51:03.630Z - success: API data generated and copied to /Users/Macbook/Documents/GitHub/star_pick_ts/creator.d.ts
+2018-08-17T12:51:06.588Z - success: VS Code extension installed to /Users/Macbook/.vscode/extensions
+2018-08-17T12:51:10.585Z - success: TypeScript Configuration file has been copied to /Users/Macbook/Documents/GitHub/star_pick_ts/tsconfig.json
+2018-08-17T12:51:15.268Z - success: Compiling task has been added to .vscode/tasks.json, please run "compile" task in VS Code to trigger compile in Cocos Creator.
+2018-08-18T02:36:01.795Z - info: shutdown preview server
